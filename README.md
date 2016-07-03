@@ -84,6 +84,7 @@ Ferramentas mais utilizadas durante essa fase:
 
 - Google!
 - Stackoverflow!
+- Perguntar para outras pessoas!
 - Editor de texto/IDE
 - Terminal
 - Navegadores para testes
