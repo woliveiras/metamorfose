@@ -1,4 +1,4 @@
-# Metamorfose ![Badge](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat))
+# Metamorfose ![Badge](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)
 
 > Naturalmente evoluindo, esse repositório é uma metamorfose ambulante
 
