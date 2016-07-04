@@ -31,6 +31,7 @@ Se você quiser mais dicas sobre carreira, acompanhe [esse repositório](bit.ly/
   - [Frameworks e Linuagens](#frameworks-e-linguagens)
     - [Front End](#front-end)
     - [Back End](#back-end)
+  - [Bancos de dados](#bancos-de-dados)
 - [Style Guides](#style-guides)
 - [Metodologias](#metodologias)
 - [Extras](#extras)
@@ -159,6 +160,11 @@ Ferramentas mais utilizadas durante essa fase:
 - Geradores estáticos
   - [Hexo](https://woliveiras.com.br/tags/Hexo/)
   - [Jekyll](https://jekyllrb.com/)
+
+### Bancos de dados
+
+- MySQL
+- MongoDB
 
 **[⬆ índice](#Índice)**
 
