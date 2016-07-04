@@ -163,3 +163,13 @@ Ferramentas mais utilizadas durante essa fase:
 ## Style Guides
 
 **[⬆ índice](#Índice)**
+
+## Metodologias
+
+**[⬆ índice](#Índice)**
+
+## Extras
+
+Palestra sobre o meu [Workflow JavaScript](http://www.slideshare.net/williamoliveira542/voc-no-precisa-de-uma-sopa-de-letrinhas-para-criar-web-apps)
+
+**[⬆ índice](#Índice)**
