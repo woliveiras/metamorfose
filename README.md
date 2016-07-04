@@ -113,15 +113,21 @@ Ferramentas mais utilizadas durante essa fase:
 - [Tomato Timer](http://tomato-timer.com): Para utilizar a técnica de Pomodoro
 - [Google Drive](http://drive.google.com): Para armazenamento de arquivos e office
 
+**[⬆ índice](#Índice)**
+
 ## Comunicação
 
 - [Slack](https://slack.com/): Comunicação em geral
 - [Gitter](https://gitter.im/): Para projetos Open Source
 
+**[⬆ índice](#Índice)**
+
 ## Inicializar novos projetos
 
 - [Kibe](https://github.com/woliveiras/kibe): Gulp Boilerplate
 - [Pastel](https://github.com/woliveiras/pastel): Grunt Boilerplate
+
+**[⬆ índice](#Índice)**
 
 ## Ambiente de desenvolvimento
 
@@ -134,6 +140,8 @@ Ferramentas mais utilizadas durante essa fase:
 - [Yeoman](http://yeoman.io/)
 - [Git](https://git-scm.com/)
 - [dotfiles](https://github.com/woliveiras/dotfiles): Configuração do ambiente, Plugins dos editores de texto
+
+**[⬆ índice](#Índice)**
 
 ## Frameworks e linguagens
 
@@ -152,6 +160,8 @@ Ferramentas mais utilizadas durante essa fase:
   - [jQuery](https://jquery.com/)
   - [Hammer.JS](http://hammerjs.github.io/)
 
+**[⬆ índice](#Índice)**
+
 ### Back End
 
 - Camada HTTP
@@ -162,12 +172,16 @@ Ferramentas mais utilizadas durante essa fase:
 - Geradores estáticos
   - [Hexo](https://woliveiras.com.br/tags/Hexo/)
   - [Jekyll](https://jekyllrb.com/)
+
+**[⬆ índice](#Índice)**
   
 ### Qualidade de código
 
 - [CSSLint](https://www.npmjs.com/package/gulp-csslint)
 - [JSLint](https://www.npmjs.com/package/gulp-jslint)
 - [SublimeLinter](https://github.com/SublimeLinter)
+
+**[⬆ índice](#Índice)**
 
 ### Bancos de dados
 
