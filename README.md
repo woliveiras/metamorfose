@@ -172,6 +172,8 @@ Ferramentas mais utilizadas durante essa fase:
 
 ## Extras
 
-Palestra sobre o meu [Workflow JavaScript](http://www.slideshare.net/williamoliveira542/voc-no-precisa-de-uma-sopa-de-letrinhas-para-criar-web-apps)
+- Palestra sobre o meu [Workflow JavaScript](http://www.slideshare.net/williamoliveira542/voc-no-precisa-de-uma-sopa-de-letrinhas-para-criar-web-apps)
+- [Modularização do Gulpfile](https://github.com/woliveiras/modularize-your-gulpfile)
+- [Emoticons](http://www.emoji-cheat-sheet.com/)
 
 **[⬆ índice](#Índice)**
