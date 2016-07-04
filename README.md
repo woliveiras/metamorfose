@@ -159,6 +159,9 @@ Ferramentas mais utilizadas durante essa fase:
   - [AngularJS](https://angularjs.org/)
   - [jQuery](https://jquery.com/)
   - [Hammer.JS](http://hammerjs.github.io/)
+- Browser Plugins
+  - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
+  - [Mais extensões](https://woliveiras.com.br/posts/extensoes-navegador-desenvolvimento-web/)
 
 **[⬆ índice](#Índice)**
 
