@@ -31,6 +31,7 @@ Se você quiser mais dicas sobre carreira, acompanhe [esse repositório](bit.ly/
   - [Frameworks e Linuagens](#frameworks-e-linguagens)
     - [Front End](#front-end)
     - [Back End](#back-end)
+  - [Qualidade de código](#qualidade-de-código)
   - [Bancos de dados](#bancos-de-dados)
 - [Style Guides](#style-guides)
 - [Metodologias](#metodologias)
@@ -160,6 +161,12 @@ Ferramentas mais utilizadas durante essa fase:
 - Geradores estáticos
   - [Hexo](https://woliveiras.com.br/tags/Hexo/)
   - [Jekyll](https://jekyllrb.com/)
+  
+### Qualidade de código
+
+- [CSSLint](https://www.npmjs.com/package/gulp-csslint)
+- [JSLint](https://www.npmjs.com/package/gulp-jslint)
+- [SublimeLinter](https://github.com/SublimeLinter)
 
 ### Bancos de dados
 
