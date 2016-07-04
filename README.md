@@ -132,7 +132,7 @@ Ferramentas mais utilizadas durante essa fase:
 - [Grunt](http://gruntjs.com/)
 - [Yeoman](http://yeoman.io/)
 - [Git](https://git-scm.com/)
-- [dotfiles](https://github.com/woliveiras/dotfiles): Configuração do ambiente
+- [dotfiles](https://github.com/woliveiras/dotfiles): Configuração do ambiente, Plugins dos editores de texto
 
 ## Frameworks e linguagens
 
