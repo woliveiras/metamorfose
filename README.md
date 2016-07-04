@@ -170,8 +170,8 @@ Ferramentas mais utilizadas durante essa fase:
 
 ### Bancos de dados
 
-- MySQL
-- MongoDB
+- [MySQL](https://www.mysql.com/)
+- [MongoDB](https://www.mongodb.com/)
 
 **[⬆ índice](#Índice)**
 
