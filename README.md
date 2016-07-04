@@ -24,6 +24,13 @@ Se você quiser mais dicas sobre carreira, acompanhe [esse repositório](bit.ly/
 
 - [Workflow](#workflow)
 - [Ferramentas](#ferramentas)
+  - [Ferramentas de Gestão](#ferramentas-de-gestão)
+  - [Comunicação](#comunicação)
+  - [Inicializar Projetos](#inicializar-novos-projetos)
+  - [Ambiente de desenvolvimento](#ambiente-de-desenvolvimento)
+  - [Frameworks e Linuagens](#frameworks-e-linguagens)
+    - [Front End](#front-end)
+    - [Back End](#back-end)
 - [Style Guides](#style-guides)
 
 ## Workflow
