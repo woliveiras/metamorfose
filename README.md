@@ -94,6 +94,63 @@ Ferramentas mais utilizadas durante essa fase:
 
 ## Ferramentas
 
+## Ferramentas de gestão
+
+- [Trello](http://trello.com): Para criação de tarefas
+- [Wunderlist](http://wunderlist.com): Para anotações
+- [Tomato Timer](http://tomato-timer.com): Para utilizar a técnica de Pomodoro
+- [Google Drive](http://drive.google.com): Para armazenamento de arquivos e office
+
+## Comunicação
+
+- [Slack](https://slack.com/): Comunicação em geral
+- [Gitter](https://gitter.im/): Para projetos Open Source
+
+## Inicializar novos projetos
+
+- [Kibe](https://github.com/woliveiras/kibe): Gulp Boilerplate
+- [Pastel](https://github.com/woliveiras/pastel): Grunt Boilerplate
+
+## Ambiente de desenvolvimento
+
+- [VIM](https://woliveiras.com.br/vimparanoobs/): Pequenas edições e tentando usar no dia a dia
+- [Sublimetext](https://www.sublimetext.com/): Para desenvolvimento em geral
+- [Linux](https://woliveiras.com.br/tags/Linux/) :heart:
+- [OSX](http://www.apple.com/br/osx/) :weary: :sob: :tired_face: :shit: :-1:
+- [Gulp.js](http://gulpjs.com/)
+- [Grunt](http://gruntjs.com/)
+- [Yeoman](http://yeoman.io/)
+- [Git](https://git-scm.com/)
+- [dotfiles](https://github.com/woliveiras/dotfiles): Configuração do ambiente
+
+## Frameworks e linguagens
+
+### Front End
+
+- HTML
+  - [EJS](http://www.embeddedjs.com/)
+  - [Jade (Pug)](http://jade-lang.com/)
+- CSS
+  - [Sass](http://sass-lang.com/)
+  - [Stylus](http://stylus-lang.com/)
+    - [Kouto Swiss](http://kouto-swiss.io)
+  - [Bootstrap](http://getbootstrap.com/)
+- JavaScript
+  - [AngularJS](https://angularjs.org/)
+  - [jQuery](https://jquery.com/)
+  - [Hammer.JS](http://hammerjs.github.io/)
+
+### Back End
+
+- Camada HTTP
+  - [NodeJS](https://nodejs.org/en/)
+  - [Express](http://expressjs.com/)
+- CMS
+  - [WordPress](https://br.wordpress.org/)
+- Geradores estáticos
+  - [Hexo](https://woliveiras.com.br/tags/Hexo/)
+  - [Jekyll](https://jekyllrb.com/)
+
 **[⬆ índice](#Índice)**
 
 ## Style Guides
