@@ -32,6 +32,8 @@ Se você quiser mais dicas sobre carreira, acompanhe [esse repositório](bit.ly/
     - [Front End](#front-end)
     - [Back End](#back-end)
 - [Style Guides](#style-guides)
+- [Metodologias](#metodologias)
+- [Extras](#extras)
 
 ## Workflow
 
