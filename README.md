@@ -33,6 +33,7 @@ Se você quiser mais dicas sobre carreira, acompanhe [esse repositório](bit.ly/
     - [Back End](#back-end)
   - [Qualidade de código](#qualidade-de-código)
   - [Bancos de dados](#bancos-de-dados)
+  - [SEO](#seo)
 - [Style Guides](#style-guides)
 - [Metodologias](#metodologias)
 - [Extras](#extras)
@@ -172,6 +173,14 @@ Ferramentas mais utilizadas durante essa fase:
 
 - [MySQL](https://www.mysql.com/)
 - [MongoDB](https://www.mongodb.com/)
+
+**[⬆ índice](#Índice)**
+
+### SEO
+
+- [Schema.org](http://schema.org/)
+- [PageSped](developers.google.com/speed/pagespeed/insights/)
+- [Structured Data Test](https://search.google.com/structured-data/testing-tool/u/0/?hl=fil)
 
 **[⬆ índice](#Índice)**
 
