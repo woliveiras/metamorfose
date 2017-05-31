@@ -18,7 +18,7 @@ Um workflow com o qual aprendi bastante foi o do [@vitorbritto](https://github.c
 
 Durante minha [carreira](https://woliveiras.com.br/posts/um-ano-como-desenvolvedor-front-end/) percebi que vale muito a pena perguntar para outras pessoas o que elas estão usando e acompanhar o que grandes empresas estão fazendo.
 
-Se você quiser mais dicas sobre carreira, acompanhe [esse repositório](bit.ly/carreira-front-end).
+Se você quiser mais dicas sobre carreira, acompanhe [esse repositório](https://bit.ly/carreira-front-end).
 
 ## Índice
 
